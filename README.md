@@ -1,2 +1,2 @@
 # Go
-# Google certificate work with all assignments etc
+# Go certificate work from Udemy certificate
