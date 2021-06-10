@@ -14,4 +14,5 @@ func main() {
 	else {
 		fmt.PrintLn(number, "is odd")
 	}
+		
 }
